@@ -1,7 +1,4 @@
-from tkinter import *
-from PIL import Image, ImageTk
 import glob
-import time
 
 newLabelName = "card"
 
